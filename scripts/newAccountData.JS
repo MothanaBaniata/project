@@ -103,7 +103,6 @@ function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-
 const upButton = document.querySelector('.up-button');
 
 
